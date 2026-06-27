@@ -1,4 +1,4 @@
-# Tugas-Jaringan-Kelompok-6
+# Tugas-Jaringan-Komputer-Kelompok-6
 
 Poject Mata kuliah Jaringan Komputer
 
